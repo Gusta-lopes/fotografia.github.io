@@ -1,2 +1,2 @@
 # gusta-lopes.github.io
-Site pessoal com informações pessoais
+Portifólio completo contendo todos os projetos web feitos por mim
