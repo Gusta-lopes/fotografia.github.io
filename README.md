@@ -1,2 +1,2 @@
-# juquitibanews.github.io
+# gusta-lopes.github.io
 Portifólio completo contendo todos os projetos web feitos por mim
